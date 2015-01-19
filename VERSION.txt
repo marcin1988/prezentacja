@@ -1,1 +1,2 @@
 wersja 0.2
+wersja 0.3
