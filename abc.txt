@@ -1,2 +1,3 @@
 To jest napis.
 To również jest napis, ale to napis wersji 0.3, wiec jest lepszy i nowszy i w ogole zajebisty i ten tego.
+Natomiast ten napis jest napisem wersji 0.4, więc jest jeszcze lepszy od poprzedniego.
